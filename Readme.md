@@ -1,1 +1,12 @@
-2nd Semestre Repo
+### Repositório do Conteúdo estudado do Segundo Semestre
+
+## **[UNINOVE - SANTO AMARO](https://aluno.uninove.br/seu/CENTRAL/aluno/)** 
+
+MATÉRIAS
+
+* PROJETO EM GESTÃO DE SISTEMAS COMPUTACIONAIS
+* DESENVOLVIMENTO DE NEGÓCIOS COM AGILIDADE
+* ANÁLISE DE DADOS
+* PESQUISA OPERACIONAL
+* SEGURANÇA DA INFORMAÇÃO
+

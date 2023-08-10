@@ -1,4 +1,4 @@
-### Repositório do Conteúdo estudado do Segundo Semestre
+### Repositório do Conteúdo estudado pela turma 28 no Segundo Semestre de 2023.
 
 ## **[UNINOVE - SANTO AMARO](https://aluno.uninove.br/seu/CENTRAL/aluno/)**
 

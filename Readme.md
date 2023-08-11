@@ -37,9 +37,15 @@
 
 * Apresentação do conteudo de análise de dados.
 * Explicação sobre os métodos de avaliação e feedback.
+* propriedades quantitativas e qualitativas de um objeto.
 * Anexo do arquivo "Aula 0 - Ciência de dados.pptx" na plataforma, contem o conteúdo:
   * A era dos dados, informação e conhecimento.
   * Transformando dados em algo mais.
   * O cenário de tecnologia.
   * Por que esse boom na IA nos últimos anos?
 
+##### Dia 10/08 - Disciplina DNCA
+
+* Apresentação do Professor Dacyr Gatto.
+* Comentários sobre Mercado de trabalho (certificações).
+* Trilhas de conhecimento(grau de estudo)

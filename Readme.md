@@ -28,9 +28,6 @@
   * Variáveis controladas ou de decisão.
   * Variáveis não controladas.
   * Modelo em Programação Linear.
-
-##### Dia 09/08 - Disciplina PO
-
 * Anexo do arquivo "História da PO.pdf" na plataforma.
 
 ##### Dia 09/08 - Disciplina AND
@@ -49,3 +46,9 @@
 * Apresentação do Professor Dacyr Gatto.
 * Comentários sobre Mercado de trabalho (certificações).
 * Trilhas de conhecimento(grau de estudo)
+
+##### Dia 11/08 - Disciplina SDI
+
+* Apresentação do Professor Evandro Teruel.
+* Sugestão de estudo das ISO 27001 e 27002.
+* Anexo do [LINK](https://docs.google.com/document/d/1p8tpYfD6rBHcd-F9lXXEtpOScwz6jZVUFn_MjPTl95E/edit?usp=sharing) para acompanhar o conteudo postado.

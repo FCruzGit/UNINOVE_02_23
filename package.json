@@ -1,0 +1,11 @@
+{
+  "name": "uninove_02_23",
+  "version": "1.0.0",
+  "description": "* PROJETO EM GESTÃO DE SISTEMAS COMPUTACIONAIS - PGSC\r * DESENVOLVIMENTO DE NEGÓCIOS COM AGILIDADE - DNCA\r * ANÁLISE DE DADOS - AND\r * PESQUISA OPERACIONAL - PO\r * SEGURANÇA DA INFORMAÇÃO - SDI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -52,3 +52,23 @@
 * Apresentação do Professor Evandro Teruel.
 * Sugestão de estudo das ISO 27001 e 27002.
 * Anexo do [LINK](https://docs.google.com/document/d/1p8tpYfD6rBHcd-F9lXXEtpOScwz6jZVUFn_MjPTl95E/edit?usp=sharing) para acompanhar o conteudo postado.
+
+##### Dia 15/08 - Disciplina PGSC
+
+* ATIVIDADE I - Definir grupo para o projeto(sem data definida para entregas).
+* Ferramentas:
+  * [INVERTERTEXTO](https://www.invertexto.com/) --> Ferramentas diversas:
+    * Contador de Caracteres;
+    * Cápsula do Tempo;
+    * Mensagem Autodestrutiva;
+    * Simulador de Financiamento;
+    * entre outros.
+
+##### Dia 15/08 - Disciplina PO
+
+* Anexo arquivos: 
+  * [arquivoCalculo.pptx]() (Método gráfico e função objetivo). 
+  * [arquivoCalculo_ii.pptx]() (modelo de programação linear). 
+  * [arquivoCalculo_iii.pptx]() (construção do modelo matemático).
+  * [matriz.pptx]() (estudo sobre matrizes).
+  

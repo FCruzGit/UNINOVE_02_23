@@ -1,6 +1,6 @@
 TAREFAS AGOSTO / SETEMBRO
 
-![img_2.png](../projetoSistemasComputacionais/Assets/img_2.png)
+![img_2.png](../projetoSistemasComputacionais/Assets/image/img_2.png)
 
 ---> Formar grupos com até 10 integrantes;
 

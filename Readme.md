@@ -65,10 +65,11 @@
     * entre outros.
 
 ##### Dia 15/08 - Disciplina PO
-
+s
 * Anexo arquivos: 
   * [arquivoCalculo.pptx]() (Método gráfico e função objetivo). 
   * [arquivoCalculo_ii.pptx]() (modelo de programação linear). 
   * [arquivoCalculo_iii.pptx]() (construção do modelo matemático).
   * [matriz.pptx]() (estudo sobre matrizes).
+* Leitura do arquivo [arquivoCalculo_ii.pptx]() e visualização da situação problema através do PHP simplex e Geogebra.
   

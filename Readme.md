@@ -72,4 +72,19 @@ s
   * [arquivoCalculo_iii.pptx]() (construção do modelo matemático).
   * [matriz.pptx]() (estudo sobre matrizes).
 * Leitura do arquivo [arquivoCalculo_ii.pptx]() e visualização da situação problema através do PHP simplex e Geogebra.
+
+##### Dia 16/08 - Disciplina AND
+
+* Estatística para Analise de dados
+  * Anexo arquivo: [Aula 1 e 2 - Estatística Para Ciência de Dados e Inteligência Artificial.pptx]()
+
+##### Dia 17/08 - Disciplina DNCA
+
+* Atividade Avaliativa (Google Forms): Entrega 25/08
+  * Questionário I - Desenvolvimento de Negócios com Agilidade
+
+##### Dia 18/08 - Disciplina SDI
+
+* Atividade Avaliativa (Apresentação): Entrega 25/08
+  * Tema ?
   

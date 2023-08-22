@@ -1,5 +1,7 @@
 ### Repositório do Conteúdo estudado pela turma 28 no Segundo Semestre de 2023.
 
+
+
 ## **[UNINOVE - SANTO AMARO](https://aluno.uninove.br/seu/CENTRAL/aluno/)**
 
 
@@ -21,7 +23,7 @@
 
 * Apresentação do conteudo de pesquisa operacional ( modelos matemáticos, otimizar processos e alcançar objetivos ).
 * Apresentação do vídeo "Foguete Ariane 5" que mostra o desfexo trágico causado pela ausência de PO e Métodos cientificos da época.
-* Anexo do arquivo "AULA_1.pptx" na plataforma, contem o conteúdo:
+* Anexo do arquivo `AULA_1.pptx` na plataforma, contem o conteúdo:
   * Fases de um Estudo em P.O.
   * Formulação do Problema.
   * Construção do Modelo do Sistema.
@@ -35,7 +37,7 @@
 * Apresentação do conteudo de análise de dados.
 * Explicação sobre os métodos de avaliação e feedback.
 * propriedades quantitativas e qualitativas de um objeto.
-* Anexo do arquivo "Aula 0 - Ciência de dados.pptx" na plataforma, contem o conteúdo:
+* Anexo do arquivo `Aula 0 - Ciência de dados.pptx` na plataforma, contem o conteúdo:
   * A era dos dados, informação e conhecimento.
   * Transformando dados em algo mais.
   * O cenário de tecnologia.
@@ -65,26 +67,26 @@
     * entre outros.
 
 ##### Dia 15/08 - Disciplina PO
-s
+
 * Anexo arquivos: 
-  * [arquivoCalculo.pptx]() (Método gráfico e função objetivo). 
-  * [arquivoCalculo_ii.pptx]() (modelo de programação linear). 
-  * [arquivoCalculo_iii.pptx]() (construção do modelo matemático).
-  * [matriz.pptx]() (estudo sobre matrizes).
-* Leitura do arquivo [arquivoCalculo_ii.pptx]() e visualização da situação problema através do PHP simplex e Geogebra.
+  * `arquivoCalculo.pptx` (Método gráfico e função objetivo). 
+  * `arquivoCalculo_ii.pptx` (modelo de programação linear). 
+  * `arquivoCalculo_iii.pptx` (construção do modelo matemático).
+  * `matriz.pptx` (estudo sobre matrizes).
+* Leitura do arquivo `arquivoCalculo_ii.pptx` e visualização da situação problema através do [PHP simplex](http://www.phpsimplex.com/pt/?authuser=6) e [Geogebra](https://www.geogebra.org/classic?lang=pt&authuser=6).
+* Anexo de atividades de algebra linear - [Arquivo](pesquisaOperacional/Assets/AL150823/atividade_po.pdf).
 
 ##### Dia 16/08 - Disciplina AND
 
 * Estatística para Analise de dados
-  * Anexo arquivo: [Aula 1 e 2 - Estatística Para Ciência de Dados e Inteligência Artificial.pptx]()
+  * Anexo arquivo: Aula 1 e 2 - `Estatística Para Ciência de Dados e Inteligência Artificial.pptx`
 
 ##### Dia 17/08 - Disciplina DNCA
 
-* Atividade Avaliativa (Google Forms): Entrega 25/08
+* Atividade Avaliativa (Google Forms): Entrega 25/08 (~~pendente~~) (100/100) 
   * Questionário I - Desenvolvimento de Negócios com Agilidade
 
 ##### Dia 18/08 - Disciplina SDI
 
 * Atividade Avaliativa (Apresentação): Entrega 25/08
-  * Tema ?
-  
+  * Tema - Quais os tipos de controle de acesso? Dê exemplos e contextos de utilização.

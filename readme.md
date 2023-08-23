@@ -1,5 +1,4 @@
-### Repositório do Conteúdo estudado pela turma 28 no Segundo Semestre de 2023.
-
+### [Repositório do Conteúdo estudado pela turma 28 no Segundo Semestre de 2023.](https://github.com/FCruzGit/UNINOVE_02_23)
 
 
 ## **[UNINOVE - SANTO AMARO](https://aluno.uninove.br/seu/CENTRAL/aluno/)**
@@ -75,6 +74,8 @@
   * `matriz.pptx` (estudo sobre matrizes).
 * Leitura do arquivo `arquivoCalculo_ii.pptx` e visualização da situação problema através do [PHP simplex](http://www.phpsimplex.com/pt/?authuser=6) e [Geogebra](https://www.geogebra.org/classic?lang=pt&authuser=6).
 * Anexo de atividades de algebra linear - [Arquivo](pesquisaOperacional/Assets/AL150823/atividade_po.pdf).
+* Anexo atividade 1 - Qual a importancia da Pesquisa Operacional na área de TI? Responda com suas palavras.
+
 
 ##### Dia 16/08 - Disciplina AND
 
@@ -90,3 +91,13 @@
 
 * Atividade Avaliativa (Apresentação): Entrega 25/08
   * Tema - Quais os tipos de controle de acesso? Dê exemplos e contextos de utilização.
+
+##### Dia 22/08 - Disciplina PGSC
+
+* Orientações sobre utilização do GIT Bash (Versionamento de código)
+* [Link](https://github.com/geracaoti/comandos-git) para repositório do professor Daniel, modelo exemplificado em aula.
+
+##### Dia 22/08 - Disciplina PO
+
+* Anexo arquivos: 
+  * [MODELO_PL.pdf](../UNINOVE_02_23/pesquisaOperacional/Assets/AL220823/MODELO_PL.pdf) - Exercícios de Algebra Linear

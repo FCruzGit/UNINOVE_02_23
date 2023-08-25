@@ -100,4 +100,36 @@
 ##### Dia 22/08 - Disciplina PO
 
 * Anexo arquivos: 
-  * [MODELO_PL.pdf](../UNINOVE_02_23/pesquisaOperacional/Assets/AL220823/MODELO_PL.pdf) - Exercícios de Algebra Linear
+  * [MODELO_PL.pdf](UNINOVE_02_23/pesquisaOperacional/Assets/AL220823/MODELO_PL.pdf) - Exercícios de Algebra Linear
+
+##### Dia 23/08 - Disciplina AND
+
+* Desenvolvimento em python, aula gravada no link.
+
+##### Dia 24/08 - Disciplina DNCA
+
+* Mais conceitos sobre práticas de desenvolvimento [SCRUM, XP, Crystal, DSDM]
+
+##### Dia 25/08 - Disciplina SDI
+
+* Apresentações dos trabalhos
+
+##### Dia 28/08 - Disciplina PGSC
+
+* 3 semana: Iniciar o desenvolvimento do projeto.
+  * Escolha da Framework (Engine)
+  * Escolha da Linguagem
+  * Escolha do Dominio para hospedagem (provavel Github)
+  * Gerenciamento do projeto [Discord, Google Forms]
+  * Versionamento de Código [GIT]
+
+
+##### Dia 29/08 - Disciplina PO
+
+##### Dia 30/08 - Disciplina AND
+
+##### Dia 31/08 - Disciplina DNCA
+
+### SETEMBRO 2023
+
+##### Dia 01/09 - Disciplina SDI
